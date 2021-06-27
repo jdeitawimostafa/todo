@@ -17,7 +17,7 @@
 
 
 
-![TODO](../todo.png)
+![TODO](./todo.png)
 
 
 ## start the app : 
@@ -32,5 +32,5 @@
 
 ## UML diagram : 
 
-![image](../1.PNG)
+![image](./1.PNG)
 

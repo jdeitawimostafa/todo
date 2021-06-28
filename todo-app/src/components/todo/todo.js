@@ -8,7 +8,7 @@ const ToDo = (props)=>{
  const addItem = (item) => {
     item._id = Math.random();
     item.complete = false;
-    console.log(item);
+    console.log('from todo js file line 11',item);
     setList( [...list, item]);
   };
  const toggleComplete = id => {
